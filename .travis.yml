@@ -2,7 +2,7 @@ language: ruby
 
 install: echo "party time"
 
-script: echo "like it's cat meow 99" && true
+script: echo "like it is cat meow 99" && true
 
 before_deploy:
   - zip -r latest *
