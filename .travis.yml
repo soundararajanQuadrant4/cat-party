@@ -11,6 +11,6 @@ before_deploy:
 
 deploy:
   provider: s3
-  access_key_id: AKIAIHC76JF3TVQIDUBQ
-  secret_access_key: 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
+  access_key_id: AKIAIATCRF6B3TPGVN5Q
+  secret_access_key: 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
   bucket: vishnutravisdemo
