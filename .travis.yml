@@ -6,6 +6,6 @@ script: echo "like it is cat meow 99" && true
 
 deploy:
   - provider: S3
-    access_key_id: AKIAIOAKHDQGQVOIESNA
-    secret_access_key: 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
+    access_key_id: AKIAI$%^weGQVOIESNA
+    secret_access_key: iaw9WFGT4VVXhRSucKh1mw5Va+3oW+5aDI
     bucket: jenkinsq4
